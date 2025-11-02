@@ -33,6 +33,12 @@
     "commonName": "Great White Shark",
     "scientificName": "Carcharodon carcharias",
     "habitat": "Coastal and offshore waters in temperate oceans",
-    "description": "A powerful apex predator with sharp teeth and keen senses, playing a crucial role in maintaining marine ecosystems."
+    "description": "A powerful apex predator with sharp teeth and keen senses, known for maintaining marine ecosystems."
+  },
+  {
+    "commonName": "Polar Bear",
+    "scientificName": "Ursus maritimus",
+    "habitat": "Arctic sea ice",
+    "description": "A large carnivorous bear adapted to cold climates, an expert swimmer, and an apex predator in the Arctic ecosystem."
   }
 ]
