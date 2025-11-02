@@ -28,5 +28,11 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+    "commonName": "Great White Shark",
+    "scientificName": "Carcharodon carcharias",
+    "habitat": "Coastal and offshore waters in temperate oceans",
+    "description": "A powerful apex predator with sharp teeth and keen senses, playing a crucial role in maintaining marine ecosystems."
   }
 ]
